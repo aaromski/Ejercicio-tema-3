@@ -1,0 +1,11 @@
+const name = 'Aarom';
+const age = 22;
+const desarrollador = 'No';
+const born = new Date("17, Sep, 2000");
+const libroFav  = {
+    titulo: "Harry Potter y el caliz de fuego",
+    autor: 'J.K. Rowling',
+    fecha: '8/07/2000',
+    }
+const lista = [name, age,desarrollador, born, libroFav];
+console.log(lista);
